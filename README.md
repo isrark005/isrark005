@@ -15,7 +15,7 @@ adept problem-solving skills to create visually appealing and seamless user expe
 
 ## Projects
 
-Feel free to explore more projects on my [Repo](https://github.com/isrark005)!
+Feel free to explore projects on my [Repo](https://github.com/isrark005?tab=repositories)!
 
 ## Get in Touch
 

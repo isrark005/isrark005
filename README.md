@@ -5,7 +5,7 @@ adept problem-solving skills to create visually appealing and seamless user expe
 
 ## About Me
 
-- 🎖️ [My Portfolio](israr-portfolio.vercel.app)!
+- 🎖️ [My Portfolio](https://israr-portfolio.vercel.app/)!
 - 💻 Self-taught front-end developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
 - 🔧 Proficient in HTML, CSS, JavaScript, React, and TypeScript.

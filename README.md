@@ -8,8 +8,8 @@ adept problem-solving skills to create visually appealing and seamless user expe
 - 🎖️ [My Portfolio](https://israr.dev/)!
 - 💻 Self-taught front-end developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
-- 🔧 Proficient in HTML, CSS, JavaScript, React, and TypeScript.
-- 💼 Currently working as a freelance developer with Dreambridge.
+- 🔧 Proficient in TypeScript, MERN & NextJs
+- 💼 Currently working as a Founding Frontend Engineer at [TAG Capital](https://tagcapital.org/).
 - 🚀 Eager to contribute to innovative projects and collaborate with like-minded individuals.
    
 

@@ -23,7 +23,7 @@ Let's connect and collaborate! You can reach me via:
 
 - 📧 Email: isrark005@gmail.com
 - 💬 LinkedIn: [Link](https://www.linkedin.com/in/israr-khan-a8824ba4/)!
-- 🐦 Twitter: [Link](https://twitter.com/isrark005)!
+- 🐦 Twitter: [Link](https://twitter.com/isrardotdev)!
 
 Looking forward to hearing from you!
 
